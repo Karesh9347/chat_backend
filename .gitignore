@@ -1,0 +1,24 @@
+# --- Build Artifacts ---
+target/
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# --- IDEs ---
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# --- Logs ---
+*.log
+backend_log.txt
+
+# --- Temporary/Test Files ---
+Test.java
+Test.class
+CheckObject.java
+CheckObject.class
